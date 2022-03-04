@@ -28,4 +28,4 @@ Therefore, for futher development, it's recommended that the filter input boxes 
   - VS Code
 
 - Languages
-  - Java Script
+  - Java Script, HTML, CSS
