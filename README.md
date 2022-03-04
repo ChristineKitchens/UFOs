@@ -15,11 +15,11 @@ To filter rows, type the desired filter criteria into the filter form box to the
 
 ![step1.png](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/images/step1.png)
 
-To add a filter criteria, click into any of the input boxes on the form and begin typing. For example, "1/13/2010" was entered into the date input box in the example image below. 
+To add a filter criteria, click into any of the input boxes on the form and begin typing. For example, "1/13/2010" was entered into the date input box in the example image below. No button needs to be clicked. The table will update automatically after clicking out of the box.
 
 ![step2.png](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/images/step2.png)
 
-As many or as few filters can be used as needed. For example, "ackerman" was entered into the city input box in addition to the "1/13/2010" value already added. As seen in the below image, this further refinines table results.
+As many or as few filters can be used. For example, "ackerman" was entered into the city input box in addition to the "1/13/2010" value already added. As seen in the below image, this further refinines table results.
 
 ![step3.png](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/images/step3.png)
 
