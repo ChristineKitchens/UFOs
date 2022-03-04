@@ -19,7 +19,7 @@ To add a filter criteria, click into any of the input boxes on the form and begi
 
 ![step2.png](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/images/step2.png)
 
-As many or as few filters can be used. For example, "ackerman" was entered into the city input box in addition to the "1/13/2010" value already added. As seen in the below image, this further refinines table results.
+As many or as few filters can be used as desired. For example, "ackerman" was entered into the city input box in addition to the "1/13/2010" value already added. As seen in the below image, this further refinines table results.
 
 ![step3.png](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/images/step3.png)
 
