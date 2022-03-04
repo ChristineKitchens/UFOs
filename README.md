@@ -8,7 +8,7 @@ The following project is part of a mock client assignment using JavaScript and H
 - Country
 - Shape
 ## Analysis
-The client deliverable can be viewed by opening the [index.html](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/index.html) inside of a web browser. The user can scroll down the page to see all entries in the unfiltered table. 
+The client deliverable can be viewed by opening the [index.html](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/index.html) file inside of a web browser. The user can scroll down the page to see all entries in the unfiltered table. 
 
 ### How to Filter Table
 To filter rows, type the desired filter criteria into the filter form box to the left of the table.
