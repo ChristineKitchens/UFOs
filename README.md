@@ -1,6 +1,6 @@
 # UFOs
 ## Overview
-The following project is part of a mock client assignment using Javascript and HTML to make a dynamic webpage containing UFO sighting information. The client requested a webpage to 1) feature their article on UFO sightings and 2) a dynamic table of sitings that users can view and filter according to their criteria. Filter criteria include the following:
+The following project is part of a mock client assignment using Javascript and HTML to make a dynamic webpage containing UFO sighting information. The client requested a webpage to 1) feature their article on UFO sightings and 2) a dynamic table of sightings that users can view and filter according to their criteria. Filter criteria include the following:
 
 - Date (1/1/2010-1/13/2010)
 - City
@@ -8,7 +8,7 @@ The following project is part of a mock client assignment using Javascript and H
 - Country
 - Shape
 ## Analysis
-Client deliverable can be viewed by opening the [index.html](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/index.html) inside of a web browser. The user can scroll down the page to see all entries in the unfiltered table. 
+The client deliverable can be viewed by opening the [index.html](https://github.com/InRegards2Pluto/UFOs/blob/28f0901e87378c44f871cba3710697d8f3bfa7c7/index.html) inside of a web browser. The user can scroll down the page to see all entries in the unfiltered table. 
 
 ### How to Filter Table
 To filter rows, type the desired filter criteria into the filter form box to the left of the table.
