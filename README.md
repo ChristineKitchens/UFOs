@@ -1,6 +1,6 @@
 # UFOs
 ## Overview
-The following project is part of a mock client assignment using Javascript and HTML to make a dynamic webpage containing UFO sighting information. The client requested a webpage to 1) feature their article on UFO sightings and 2) a dynamic table of sightings that users can view and filter according to their criteria. Filter criteria include the following:
+The following project is part of a mock client assignment using JavaScript and HTML to make a dynamic webpage containing UFO sighting information. The client requested a webpage to 1) feature their article on UFO sightings and 2) a dynamic table of sightings that users can view and filter according to their criteria. Filter criteria include the following:
 
 - Date (1/1/2010-1/13/2010)
 - City
