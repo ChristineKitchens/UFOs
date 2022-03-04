@@ -40,7 +40,7 @@ function buildTable(data) {
      // Rebuild the table using the filtered data
     // @NOTE: If no date was entered, then filteredData will
     // just be the original tableData.
-    buildTable(filteredData);
+    
   }
   
   // Attach an event to listen for the form button
